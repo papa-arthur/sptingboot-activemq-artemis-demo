@@ -7,9 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ActivemqDemoApplication {
 
 
-	public static void main(String[] args) {
-		SpringApplication.run(ActivemqDemoApplication.class, args);
+    public static void main(String[] args) {
+        SpringApplication.run(ActivemqDemoApplication.class, args);
 
-	}
+    }
 
 }
